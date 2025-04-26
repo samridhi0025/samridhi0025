@@ -1,4 +1,4 @@
-[logo](https://github.com/samridhi0025/samridhi0025/blob/main/banner.png)
+![logo](https://github.com/samridhi0025/samridhi0025/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Samridhi Sharma</h1>
 <h3 align="center">Fresher | Aspiring Data Scientist | Tech Enthusiast</h3>
 <img align ="right" alt ="coding" width = "200" src="https://github.com/samridhi0025/samridhi0025/blob/main/img.png">

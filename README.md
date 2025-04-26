@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samridhi0025@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BGR52TVkp8EkikU5NdNVvSUS-FENrUTb/view?usp=drive_link](https://drive.google.com/file/d/1BGR52TVkp8EkikU5NdNVvSUS-FENrUTb/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fFRLmgY3hvuOJajO7upQ1NS1Wjryj_kq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

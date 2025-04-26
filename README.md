@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samridhi Sharma</h1>
 <h3 align="center">Fresher | Aspiring Data Scientist | Tech Enthusiast</h3>
 <img align ="right" alt ="coding" width = "200" src="https://github.com/samridhi0025/samridhi0025/blob/main/img.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi0025&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi0025" /> </p>
 
 - 🔭 I’m currently enrolled in Certification-course **Data Science-Artificial Intelligence**
@@ -16,10 +17,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/samridhisharma2583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samridhisharma2583" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samridhi2583/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samridhisharma2583" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@samridhi_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samridhi_25" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+#### Languages & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-9E5D6A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Plotly-3E5C5B?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="100" height="30"/>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samridhi0025&show_icons=true&locale=en" alt="samridhi0025" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samridhi0025&show_icons=true&locale=en&layout=compact" alt="samridhi0025" /></p>
+

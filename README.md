@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samridhi2583/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samridhisharma2583" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@samridhi_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samridhi_25" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Samridhi_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@samridhi_25" height="30" width="40" /></a>
 </p>
 
 #### Languages & Libraries

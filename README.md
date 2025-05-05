@@ -34,7 +34,3 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samridhi0025&show_icons=true&locale=en" alt="samridhi0025" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samridhi0025&show_icons=true&locale=en&layout=compact" alt="samridhi0025" /></p>
-

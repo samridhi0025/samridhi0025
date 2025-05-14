@@ -1,6 +1,6 @@
 ![logo](https://github.com/samridhi0025/samridhi0025/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Samridhi Sharma</h1>
-<h3 align="center">Fresher | Aspiring Data Scientist | Tech Enthusiast</h3>
+<h3 align="center">Fresher | Aspiring Web Development | Tech Enthusiast</h3>
 <img align ="right" alt ="coding" width = "200" src="https://github.com/samridhi0025/samridhi0025/blob/main/img.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi0025&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi0025" /> </p>

@@ -39,7 +39,7 @@
 ---
 
 ### 📄 Resume
-[Download my Resume](https://drive.google.com/file/d/1tusq206lIq948YXz5cBbehT2JIlnu-NS/view?usp=sharing)
+[Download my Resume](https://drive.google.com/file/d/1ZAh4BXDnf7FK2pPdHuUPQ92saO8kgpf-/view?usp=sharing)
 
 ---
 

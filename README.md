@@ -19,8 +19,6 @@
 ### 📫 Contact Me
 - 📧 Email: samridhi0025@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)  
-- 🖥️ HackerRank: [hackerrank.com/Samridhi_25](https://www.hackerrank.com/profile/Samridhi_25)  
-
 ---
 
 
@@ -39,7 +37,7 @@
 ---
 
 ### 📄 Resume
-[Download my Resume](https://drive.google.com/file/d/1ZAh4BXDnf7FK2pPdHuUPQ92saO8kgpf-/view?usp=sharing)
+[Download my Resume](https://drive.google.com/file/d/1brX3yKRe4Wx0nahKwk2O0b_XKWvSKCoK/view?usp=sharing)
 
 ---
 

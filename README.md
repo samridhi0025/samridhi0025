@@ -19,7 +19,7 @@
 ### 📫 Contact Me
 - Email: samridhi0025@gmail.com  
 - LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)
-- Behance:[samridhisharma24](https://www.behance.net/samridhisharma24) 
+- Behance: [samridhisharma24](https://www.behance.net/samridhisharma24) 
 ---
 
 

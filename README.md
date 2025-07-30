@@ -1,7 +1,8 @@
 ![logo](https://github.com/samridhi0025/samridhi0025/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Samridhi Sharma</h1>
-<h3 align="center">Fresher | Aspiring Web Developer | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
+
 <img align="right" alt="coding" width="200" src="https://github.com/samridhi0025/samridhi0025/blob/main/img.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi0025&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
@@ -9,37 +10,38 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Completed B.Tech in Computer Science from JECRC  
-- 💡 Interested in building web applications and learning new technologies  
-- 🧰 My skills include Python, SQL, HTML, CSS, JavaScript, ReactJS, and foundational knowledge in Artificial Intelligence and TensorFlow  
-- 🌱 Currently focusing on expanding my knowledge in AI and advanced frontend development  
+- B.Tech in Computer Science from JECRC College (2024)
+- Passionate about data-driven decision making and uncovering insights through **EDA, dashboards, and predictive modeling**
+- Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, **Power BI**, and **Excel**
+- Created projects like **Customer Churn Prediction**, **Pizza Sales Dashboard**, and **Diwali Sales EDA**
+- Currently exploring **advanced analytics, real-world data projects**, and **AI applications in business**
 
 ---
 
 ### 📫 Contact Me
-- Email: samridhi0025@gmail.com  
-- LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)
-- Behance: [samridhisharma24](https://www.behance.net/samridhisharma24) 
+- 📧 Email: samridhi0025@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)
+- 🎨 Behance: [samridhisharma24](https://www.behance.net/samridhisharma24) 
+
 ---
 
-
-### 🛠️ Skills & Technologies
+### 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2C5D8A?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" height="30"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" height="30"/>
 </p>
 
 ---
 
-### 📄 Resume
-[Download my Resume](https://drive.google.com/file/d/1U6gxOG5SofhyTWaz5zMmG_f2PBlQD1WB/view?usp=sharing)
+### 📄 Resume  
+[Download My Resume](https://drive.google.com/file/d/1U6gxOG5SofhyTWaz5zMmG_f2PBlQD1WB/view?usp=sharing)
 
 ---
 
-Thanks for stopping by! Feel free to connect or collaborate.
+Thanks for visiting! Feel free to connect, collaborate, or explore my work 🚀  
+

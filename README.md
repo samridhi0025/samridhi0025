@@ -13,7 +13,7 @@
 - B.Tech in Computer Science from JECRC College (2024)
 - Passionate about data-driven decision making and uncovering insights through **EDA, dashboards, and predictive modeling**
 - Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, **Power BI**, and **Excel**
-- Created projects like **Customer Churn Prediction**, **Pizza Sales Dashboard**, and **Diwali Sales EDA**
+- Created projects like **Movie Recommended System**, **Pizza Sales Dashboard**, and **Diwali Sales EDA**
 - Currently exploring **advanced analytics, real-world data projects**, and **AI applications in business**
 
 ---

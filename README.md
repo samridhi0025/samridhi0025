@@ -10,18 +10,19 @@
 ---
 
 ### 👩‍💻 About Me
-- B.Tech in Computer Science from JECRC College (2024)
-- Passionate about data-driven decision making and uncovering insights through **EDA, dashboards, and predictive modeling**
-- Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, **Power BI**, and **Excel**
-- Created projects like **Movie Recommended System**, **Pizza Sales Dashboard**, and **Diwali Sales EDA**
-- Currently exploring **advanced analytics, real-world data projects**, and **AI applications in business**
+- B.Tech in Computer Science from JECRC College (2024)  
+- Currently working as a **Data Science Intern** at [SoftSensor.ai](https://softsensor.ai) — contributing to data analysis, automation, and performance tracking *(project details confidential)*  
+- Passionate about data-driven decision making and uncovering insights through **EDA, dashboards, and predictive modeling**  
+- Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, **Power BI**, and **Excel**  
+- Created projects like **Movie Recommendation System**, **Pizza Sales Dashboard**, and **Diwali Sales EDA**  
+- Exploring **advanced analytics, real-world data applications**, and **AI in business intelligence**
 
 ---
 
 ### 📫 Contact Me
 - 📧 Email: samridhi0025@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)
-- 🎨 Behance: [samridhisharma24](https://www.behance.net/samridhisharma24) 
+- 💼 LinkedIn: [linkedin.com/in/samridhi2583](https://www.linkedin.com/in/samridhi2583/)  
+- 🎨 Behance: [samridhisharma24](https://www.behance.net/samridhisharma24)  
 
 ---
 
@@ -44,4 +45,3 @@
 ---
 
 Thanks for visiting! Feel free to connect, collaborate, or explore my work 🚀  
-
